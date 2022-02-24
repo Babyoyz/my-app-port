@@ -42,7 +42,7 @@ function App() {
   return (
     <div>
       {Loadding ? (
-          <div className="div-loadding">
+          <div className="div-loadding container-xl">
              <div className="centered">
         <FadeIn>
           <Lottie options={defaultOptions} height={300} width={300} />

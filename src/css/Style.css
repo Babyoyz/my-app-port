@@ -158,5 +158,5 @@ and (min-width : 1224px) {
   }
   .div-loadding{
       background-color: #525252;
-      height: 768px;
+      height: calc(100vh);
   }
