@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto Serif', sans-serif;
+    
+}
+:root {
+    --tcolor: #f7d459;
+  }
+
+  .container-xl{
+    background-color: #525252 ;
+  }
+
+
+.img-profile{
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid var(--tcolor);
+}
+.div-img{
+    border: 3px solid #fff;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.Header-div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.Header-div p {
+   font-weight: bold;
+}
+.dev-text-name{
+    border: 3px solid var(--tcolor);
+    background: var(--tcolor);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.f-18{
+    font-size: 1rem;
+}
+
+.textmenu-header{
+    font-size: 1.5rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+
+/* iPhone 2G-4S (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+
+    .div-menu{
+        border-bottom: 2px solid #fff;
+    }
+
+}
+/* iPhone 5 (portrait) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 767px) 
+and (orientation : portrait) {
+
+    .div-menu{
+        border-bottom: 2px solid #fff;
+    }
+
+}
+
+
+/* iPads (portrait) ----------- */
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+    .f-18{
+        font-size: 1.5rem;
+    }
+
+    .img-profile{
+        width: 150px;
+        border-radius: 50%;
+        border: 3px solid var(--tcolor);
+    }
+    .div-img{
+        border: 3px solid #fff;
+        width: 150px;
+        border-radius: 50%;
+    }
+
+    /* .About{
+        border-bottom: 2px solid #fff;
+    } */
+
+}
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+    .f-18{
+        font-size: 2rem;
+    }
+    .img-profile{
+        width: 200px;
+        border-radius: 50%;
+        border: 3px solid var(--tcolor);
+    }
+
+    .div-img{
+        border: 3px solid #fff;
+        width: 200px;
+        border-radius: 50%;
+    }
+
+}
+
+.About-color-span{
+    color: var(--tcolor);
+    font-weight: 600;
+}
+
+.About-p{
+    color:whitesmoke;
+    font-weight: 800;
+}
