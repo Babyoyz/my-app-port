@@ -130,3 +130,11 @@ and (min-width : 1224px) {
     color:whitesmoke;
     font-weight: 800;
 }
+ .btn-skill{
+    padding: 1rem;
+    color: white;
+    border-radius:15px;
+    width: auto;
+    box-shadow: currentColor;
+    box-shadow: rgb(50 50 93 / 25%) 0px 30px 60px -12px inset, rgb(0 0 0 / 30%) 0px 18px 36px -18px inset;
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import About from "./About";
 import Contact from "./Contact";
+import Skill from "./Skills"
 const Content = () => {
   return (
     <div>
@@ -12,6 +13,16 @@ const Content = () => {
         </div>
         <div className="col-xs-12 col-md-6">
           <div className="Contact mt-3">
+            <Contact />
+          </div>
+        </div>
+        <div className="col-xs-12 col-md-6">
+          <div className="Skill mt-3">
+            <Skill />
+          </div>
+        </div>
+        <div className="col-xs-12 col-md-6">
+          <div className="Hobbies mt-3">
             <Contact />
           </div>
         </div>
