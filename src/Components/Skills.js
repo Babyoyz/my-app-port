@@ -11,7 +11,7 @@ const Skill = () => {
       },
       {
         skill: "JavaScript",
-        backgroundColor: "#FFFF00",
+        backgroundColor: "#FDF73F",
       },
       {
         skill: "PHP",
@@ -27,7 +27,7 @@ const Skill = () => {
       },
       {
         skill: "JQuery",
-        backgroundColor: "#0000CC",
+        backgroundColor: "#0066CC",
       },
       {
         skill: "Golang",
