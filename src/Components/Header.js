@@ -17,6 +17,8 @@ const Header = () => {
         <div className="col-7 d-flex dev-text-name justify-content-center">
         <div className="align-self-center">
             <p className="f-18">Thaweeporn Areepun</p>
+            <p className="f-18 text-end">Nickname: Oil</p>
+
           </div>
         </div>
       </div>
