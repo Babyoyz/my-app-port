@@ -10,7 +10,7 @@ const Workhistory = () => {
             <div className="">
 
                 <section className='card-section'>
-                    <p>Apr-2021 -Curent Programmer</p>
+                    <h2>Apr-2021 -Curent Programmer</h2>
                     <div>
                         <p>Better Way Thailand Co.Ltd. (Mistine), Bangkok
                             210 Ramkhamhaeng Rd. RatPhatthana, Shaphan Sung </p>
@@ -24,7 +24,7 @@ const Workhistory = () => {
                 </section>
 
                 <section className='card-section'>
-                    <p>Dec 2019 - Mar 2021 IT Technicain </p>
+                    <h2>Dec 2019 - Mar 2021 IT Technicain </h2>
                     <div>
                         <p>Better Way Thailand Co.Ltd. (Mistine), Bangkok
                             210 Ramkhamhaeng Rd. RatPhatthana, Shaphan Sung  </p>
