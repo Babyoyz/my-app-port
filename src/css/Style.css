@@ -237,3 +237,9 @@
     position: relative;
     border-radius: 6px;
 }
+
+
+.img-product{
+    width: 200px;
+    height: auto;
+}

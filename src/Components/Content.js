@@ -5,6 +5,7 @@ import Skill from "./Skills";
 import Hobbies from "./Hobbies";
 import Workhistory from "./Workhistory";
 import Education from "./Education";
+import Portfolio from './Portfolio'
 const Content = () => {
   return (
     <div>
@@ -29,6 +30,11 @@ const Content = () => {
             <div className="col-xs-12 col-md-12">
               <div className="Hobbies mt-3">
                 <Hobbies />
+              </div>
+            </div>
+            <div className="col-xs-12 col-md-12">
+              <div className="Portfolio mt-3">
+              <Portfolio />
               </div>
             </div>
           </div>
