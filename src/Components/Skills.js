@@ -29,10 +29,10 @@ const Skill = () => {
         skill: "JQuery",
         backgroundColor: "#0066CC",
       },
-      {
-        skill: "Golang",
-        backgroundColor: "#00CCCC",
-      },
+    //   {
+    //     skill: "Golang",
+    //     backgroundColor: "#00CCCC",
+    //   },
       {
         skill: "MySQL",
         backgroundColor: "#99FFFF",
