@@ -10,7 +10,17 @@ const Workhistory = () => {
             <div className="">
 
                 <section className='card-section'>
-                    <h2>Apr-2021 -Curent Programmer</h2>
+                        <h3>May-2022 - Curent Fullstack Developer</h3>
+                        <div>
+                            <p>Wisesight (Thailand) Co.,ltd.
+                            123 Suntowers Building B, 33rd floor, Vibhavadi-Rangsit Rd., Chom Phon, Chatuchak, Bangkok 10900 </p>
+                            <p>* Development and maintenance tools internal system. </p>
+                            <p>*Get requirement design database and development front-end and back-end Web application .</p>
+                        </div>
+                    </section>
+
+                <section className='card-section'>
+                    <h3>Apr 2021 - May 2022</h3>
                     <div>
                         <p>Better Way Thailand Co.Ltd. (Mistine), Bangkok
                             210 Ramkhamhaeng Rd. RatPhatthana, Shaphan Sung </p>
@@ -24,7 +34,7 @@ const Workhistory = () => {
                 </section>
 
                 <section className='card-section'>
-                    <h2>Dec 2019 - Mar 2021 IT Technicain </h2>
+                    <h3>Dec 2019 - Mar 2021 IT Technicain </h3>
                     <div>
                         <p>Better Way Thailand Co.Ltd. (Mistine), Bangkok
                             210 Ramkhamhaeng Rd. RatPhatthana, Shaphan Sung  </p>
