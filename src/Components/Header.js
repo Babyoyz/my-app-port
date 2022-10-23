@@ -5,7 +5,7 @@ const Header = () => {
     <div className="Header-div ps-1 pe-1">
       <div className="row">
         <div className="col-5">
-          <div className="d-flex justify-content-end">
+          <div className="d-flex justify-content-center">
                 <img
                 className="img-profile"
                 src={imgprofile}

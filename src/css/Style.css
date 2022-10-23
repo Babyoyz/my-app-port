@@ -242,6 +242,7 @@
 .img-product{
     width: 200px;
     height: auto;
+    cursor: pointer;
 }
 .swiper-slide {
     display: flex;

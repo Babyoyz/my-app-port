@@ -26,7 +26,6 @@ const Portfolio = () => {
       updateSize();
       return () => window.removeEventListener("resize", updateSize);
     }, []);
-    console.log(size[0]);
     return size;
   };
 

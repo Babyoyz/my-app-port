@@ -15,7 +15,7 @@ const Hobbies = () => {
       <div className="About-Header">
         <p className="text-center textmenu-header">Hobbies</p>
       </div>
-      <div className="row">
+      <div className="row d-md-flex justify-content-md-center">
         <div className="col-auto">
           <div className="btn-hobbies">
             <FontAwesomeIcon icon={faPlaneDeparture} />

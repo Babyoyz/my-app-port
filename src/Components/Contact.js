@@ -18,7 +18,7 @@ const Contact = () => {
           Line: <span className="About-color-span">oilzyzz</span>
         </p>
         <p className="About-p">
-          Facebook: <span className="About-color-span">https://www.facebook.com/oilza600</span>
+          Facebook: <a className="About-color-span" href="https://www.facebook.com/oilza600">https://www.facebook.com/oilza600</a>
         </p>
       </div>
     </div>
