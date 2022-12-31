@@ -1,5 +1,7 @@
 import React from "react";
-import imgprofile from '../asset/img/profile.jpg'
+import imgprofile from '../asset/img/profile_new.jpg'
+
+
 const Header = () => {
   return (
     <div className="Header-div ps-1 pe-1">
